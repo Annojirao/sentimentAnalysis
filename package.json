@@ -34,7 +34,9 @@
     "express": "^4.13.3",
     "morgan": "^1.8.0",
     "natural": "0.6.2",
-    "resource-router-middleware": "^0.6.0"
+    "resource-router-middleware": "^0.6.0",
+    "spellchecker": "^3.5.0",
+    "spelling-corrector": "^3.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.9.0",
